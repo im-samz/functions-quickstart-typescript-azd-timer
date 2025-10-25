@@ -1,0 +1,20 @@
+{
+    "name": "azure-functions-timer-typescript",
+    "version": "1.0.0",
+    "description": "Azure Functions Timer Trigger sample written in TypeScript",
+    "scripts": {
+        "build": "tsc",
+        "watch": "tsc -w",
+        "prestart": "npm run build",
+        "start": "func start",
+        "test": "echo \"No tests yet...\""
+    },
+    "dependencies": {
+        "@azure/functions": "^4.8.0"
+    },
+    "devDependencies": {
+        "@types/node": "^22.18.12",
+        "typescript": "^5.9.3"
+    },
+    "main": "dist/src/functions/*.js"
+}
