@@ -1,5 +1,5 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
-// README at: https://github.com/devcontainers/templates/tree/main/src/dotnet
+// README at: https://github.com/devcontainers/templates/tree/main/src/typescript-node
 
 {
 	"name": "Functions Quickstarts Codespace",
@@ -28,7 +28,7 @@
 				"GitHub.copilot"
 			],
 			"settings": {
-				"azureFunctions.showProjectWarning": false,
+				"azureFunctions.showProjectWarning": false
 			}
 		}
 	},
