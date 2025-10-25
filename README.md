@@ -35,7 +35,7 @@ This codespace is already configured with the required tools to complete this tu
 ## Prerequisites
 
 - [Azure Storage Emulator (Azurite)](https://learn.microsoft.com/azure/storage/common/storage-use-azurite) - Required for local development with Azure Functions
-- [Node.js 18 LTS](https://nodejs.org/en/download/) - Required for TypeScript/JavaScript Azure Functions
+- [Node.js 22 LTS](https://nodejs.org/en/download/) - Required for TypeScript/JavaScript Azure Functions
 - [Azure Functions Core Tools](https://learn.microsoft.com/azure/azure-functions/functions-run-local?pivots=programming-language-javascript#install-the-azure-functions-core-tools)
 - [Azure Developer CLI](https://learn.microsoft.com/azure/developer/azure-developer-cli/install-azd)
 - To use Visual Studio Code to run and debug locally:
