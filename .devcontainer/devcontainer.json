@@ -18,17 +18,17 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"ms-dotnettools.csdevkit",
-				"ms-dotnettools.dotnet-interactive-vscode",
+				"ms-vscode.vscode-typescript-next",
+				"ms-vscode.vscode-eslint",
+				"bradlc.vscode-tailwindcss",
+				"ms-vscode.vscode-json",
 				"ms-azuretools.vscode-bicep",
 				"ms-azuretools.vscode-docker",
 				"ms-azuretools.vscode-azurefunctions",
 				"GitHub.copilot"
 			],
 			"settings": {
-				"dotnet.completion.showCompletionItemsFromUnimportedNamespaces": true,
-				"dotnet.symbolSearch.searchReferenceAssemblies": true,
-				"azureFunctions.showProjectWarning": false
+				"azureFunctions.showProjectWarning": false,
 			}
 		}
 	},
